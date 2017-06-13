@@ -1,5 +1,13 @@
 .business-card {
   font-size: 50px;
   border-bottom: 6px solid red;
-  background-color: lightgrey;
+  background-color: yellow;
+  height: 400px;
+  width: 700px;
+}
+.contact {
+  font-size: 30px;
+  border-bottom: px solid blue;
+  
+
 }
